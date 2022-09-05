@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/killian-mazibuko/project4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/killian-mazibuko/project4/tree/main)
 
 ## Project Overview
 
@@ -48,4 +48,3 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
-# project4
